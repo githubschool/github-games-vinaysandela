@@ -1,0 +1,4 @@
+* @amir-fathi   //Amir can code review everything
+*.js @front-end-team  //review js files by front-end team
+/tests/ @qa-team   //one person from qa-team is enough
+*.rb @matz
